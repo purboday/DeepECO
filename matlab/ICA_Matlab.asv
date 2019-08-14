@@ -1,0 +1,3 @@
+main11=importdata('low_freq\house_2\channel_1.dat');
+main11.data;
+main1 = main11(:,2);
