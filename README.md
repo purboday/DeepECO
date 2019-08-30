@@ -1,2 +1,2 @@
 # DeepNILM
-Energy Disaggregagtion using Deep RNN
+Occupancy Detection using Deep RNN
