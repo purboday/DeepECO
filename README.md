@@ -1,4 +1,4 @@
-# DeepNILM
+# DeepECO
 The primary focus of this work is on evaluating the effectiveness of deep learning techniques, specifically Convolutional Neural Networks (CNNs), for occupancy detection in residential buildings using smart meter data. This repository also explores the impact of different feature selection methods, including Principal Component Analysis (PCA) and SHapley Additive exPlanations (SHAP), on the performance of these models on five different types of house occupancy datasets.
 
 ## Data
